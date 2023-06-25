@@ -1,7 +1,7 @@
 <?php
 
 // config 
-define('BASE_URL', 'http://localhost/php/php-project/');
+define('BASE_URL', 'http://localhost/php/php-blog-project/');
 
 
 function redirect($url)
